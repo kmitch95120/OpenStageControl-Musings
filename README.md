@@ -1,0 +1,1 @@
+# OpenStageControl-Musings
