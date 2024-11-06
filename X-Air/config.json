@@ -1,0 +1,10 @@
+{
+    "send": [
+        "172.29.1.24:10024"
+    ],
+    "load": "/home/pi/O-S-C/Test/xair_v01.json",
+    "debug": true,
+    "fullscreen": false,
+    "osc-port": 9000,
+    "custom-module": "/home/pi/O-S-C/Test/xair_v01.js"
+}
