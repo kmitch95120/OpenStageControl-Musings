@@ -7,3 +7,7 @@ O-S-C is server-based so it runs on a centralized computer and presents a client
 Something else that is intriguing is the fact that [JavaScript](https://www.w3schools.com/js/) is the scripting language used and the UI 'widgets' can be styled with [HTML](https://www.w3schools.com/html/) and [CSS](https://www.w3schools.com/css/). These are all on my learning ToDo list, so that's also a motivating factor.
 
 For the near-term, I'm using the Mac app version of O-S-C since it includes the Server, Launcher, and Client in a nice, self-contained package. Long-term I'll be running under [node.js](https://nodejs.org/) on the Pi400. My plan is to use [Fully Kiosk Browser](https://www.fully-kiosk.com/#get-kiosk-apps) on one or more Android tablets.
+
+## First Project [[X-Air](X-Air/README.md)]
+
+Since I'm already very familiar with the OSC commands used to control [Behringer X-Air](https://www.behringer.com/series.html?category=R-BEHRINGER-XAIRSERIES) digital mixers, I decided to build a simple channel strip for controlling an X-Air channel.
